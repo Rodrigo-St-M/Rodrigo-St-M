@@ -2,6 +2,7 @@
 I'm Rodrigo Santa Marta Coelho! \
 Currently finishing my Bachelor's Degree in Computer Science and Engineering. \
 I develop video games on Godot in my free time (check out my [itch.io page](https://rokki55555.itch.io/)). \
+Most public repos here are either old university projects, or games I'm developing...
 Oh, and I really like pineapples!
 <!--
 **Rodrigo-St-M/Rodrigo-St-M** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
